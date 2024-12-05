@@ -1,4 +1,4 @@
-# Password Generator Script
+# A2PASS INTRODUCTION
 
 This script generates secure, random passwords with a specified length and optionally saves them to a file.
 
@@ -19,11 +19,11 @@ This script generates secure, random passwords with a specified length and optio
 
 ### Steps
 
-1. Save the script to a file (e.g., `password_generator.py`).
+1. Save the script to a file (e.g., `A2Pass.py`).
 2. Open a terminal or command prompt.
 3. Run the script:
    ```bash
-   python password_generator.py
+   python A2Pass.py
    ```
 
 ### Example Usage
